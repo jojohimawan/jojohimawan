@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Gemasting**
 
-- 🌱 I’m currently learning **scikit learn**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 💬 Ask me about **UI, UX, Basic data science**
 
