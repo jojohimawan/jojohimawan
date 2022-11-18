@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jordan Himawan</h1>
-<h3 align="center">A part time UI Designer trying to learn code. Interested in data science and app development</h3>
+<h3 align="center">An udergraduate student at EEPIS, majoring in Informatics Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanhimawan003&label=Profile%20views&color=0e75b6&style=flat" alt="jordanhimawan003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jfrisayy" target="blank"><img src="https://img.shields.io/twitter/follow/jfrisayy?logo=twitter&style=for-the-badge" alt="jfrisayy" /></a> </p>
 
-- 🔭 I’m currently working on **Gemasting**
+- 🔭 I’m currently working on **~**
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
