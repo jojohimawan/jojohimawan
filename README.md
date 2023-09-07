@@ -1,5 +1,5 @@
 ### 💫 About Me:
-<br>Currently working with NextJS and Yii<br>
+<br>Currently working with NextJS<br>
 
 
 ### 🌐 Socials:
