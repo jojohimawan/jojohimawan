@@ -1,5 +1,5 @@
 ### 💫 About Me:
-<br>Hi there!, I'm Jordan<br>
+# **Hi there! I'm Jordan.**
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jordan-himawan) 
